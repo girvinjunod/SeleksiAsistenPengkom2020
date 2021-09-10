@@ -1,4 +1,6 @@
 # Seleksi Asisten Pengkom 2020
+Jawaban saya untuk soal seleksi asisten pengkom 2020 paket O
+
 ### No. 1
 Program menerima input dua pasang string yang melambangkan urutan tangan dalam permainan gunting batu kertas ('P', 'R', 'S') lalu menunjukkan pihak mana yang menang
 
