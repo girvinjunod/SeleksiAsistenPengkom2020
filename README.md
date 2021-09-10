@@ -14,5 +14,5 @@ Program menerima input berupa angka dan basis angka tersebut lalu mengubah angka
 ### No. 5
 Program menerima input berupa N buah jam lalu menampilkan jarak antar jam terlama yang ada
 
-
+## Author
 Girvin Junod - 13519096
